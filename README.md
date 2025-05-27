@@ -4,7 +4,7 @@ Project setup
 
 
 ---------
-JDk setup
+JDK setup
 ---------
 Download and install jdk-17.0.2
 
