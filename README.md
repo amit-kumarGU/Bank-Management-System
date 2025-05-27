@@ -6,20 +6,20 @@ Project setup
 ---------
 JDk setup
 ---------
-Download and install jdk-17.0.2 
+Download and install jdk-17.0.2;
 
 
 ---------
 IDE setup
 ---------
-Download and install Apache NetBeans IDE 13
-Create a new project with name 'bank management system'
-Create the java files as mentioned in the repository
+Download and install Apache NetBeans IDE 13;
+Create a new project with name 'bank management system';
+Create the java files as mentioned in the repository;
 
 --------------
 Database setup
 --------------
-Download and install mySQL workbench 8.0 CE  and proceed as mentioned below-
+Download and install mySQL workbench 8.0 CE  and proceed as mentioned below-;
 
 
 ----------------------------------------------------
