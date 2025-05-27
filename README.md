@@ -1,3 +1,27 @@
+-------------
+Project setup
+-------------
+
+
+---------
+JDk setup
+---------
+Download and install jdk-17.0.2 
+
+
+---------
+IDE setup
+---------
+Download and install Apache NetBeans IDE 13
+Create a new project with name 'bank management system'
+Create the java files as mentioned in the repository
+
+--------------
+Database setup
+--------------
+Download and install mySQL workbench 8.0 CE  and proceed as mentioned below-
+
+
 ----------------------------------------------------
 Database Queries for BANK MANAGEMENT SYSTEM Project
 ----------------------------------------------------
@@ -36,6 +60,8 @@ formno varchar(20), cardnumber varchar(25), pin varchar(10);
 
 create table 'bank' with attributes:
 pin varchar(10), date varchar(50), mode varchar(20), amount varchar(20);
+
+
 
 
 
