@@ -1,6 +1,6 @@
----------------------------------------------------
+----------------------------------------------------
 Database Queries for BANK MANAGEMENT SYSTEM Project
----------------------------------------------------
+----------------------------------------------------
 
 1 - Create database with name 'bankmanagementsystem' in mysql
 
@@ -29,11 +29,13 @@ formno varchar(20), accountType varchar(40), cardnumber varchar(25), pin varchar
 
 6 - Create the Login table to store login information
 
-create table login(formno varchar(20), cardnumber varchar(25), pin varchar(10));
+create table login with attributes:
+formno varchar(20), cardnumber varchar(25), pin varchar(10);
 
 7 - Now create bank table to store transactions related information 
 
-create table bank(pin varchar(10), date varchar(50), type varchar(20), amount varchar(20));
+create table 'bank' with attributes:
+pin varchar(10), date varchar(50), mode varchar(20), amount varchar(20);
 
 
 
