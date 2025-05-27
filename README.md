@@ -22,8 +22,18 @@ Create the java files as mentioned in the repository
 --------------
 Database setup
 --------------
-Download and install mySQL workbench 8.0 CE  and proceed as mentioned below-;
+Download and install mySQL workbench 8.0 CE  and proceed as mentioned below-
 
+
+-----------------------------
+Connecting Database with java
+-----------------------------
+
+Add the below files (provided in repository) to the library of the project 'bank management system'
+
+jcalendar-tz-1.3.3-4.jar
+
+mysql-connector-java-8.0.28.jar
 
 ----------------------------------------------------
 Database Queries for BANK MANAGEMENT SYSTEM Project
